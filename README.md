@@ -1,2 +1,2 @@
-# Arrow-Top500-Scraper
-Python scraper for Arrow's Top500 list
+# Arrow Top500 Scraper
+Python scraper for the Arrow Classic Rock Top500 list
